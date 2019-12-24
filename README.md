@@ -1,2 +1,2 @@
 # ruko.js
-A npm package for Ruko and discord!
+A npm package for Ruko and discord! Under development!
